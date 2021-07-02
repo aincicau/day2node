@@ -1,0 +1,4 @@
+1. use the custom modules
+2. create a simple html  file: a title, 1 paragraph. display it in browser
+tip: use the fs module to open the html file
+3. just add some endpoints(get)
